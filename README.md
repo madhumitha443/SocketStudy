@@ -82,9 +82,11 @@ print(s.recv(1024).decode())
 s.send("Acknowledgement Recived".encode())
 ~~~
 Output: Client: 
-<img width="1853" height="786" alt="Screenshot 2026-05-14 144714" src="https://github.com/user-attachments/assets/bb6e615a-11e9-466c-8461-2956cfb972ec" />
-Server:
+
 <img width="1848" height="422" alt="Screenshot 2026-05-14 144730" src="https://github.com/user-attachments/assets/5d01006f-249b-4ed9-97de-66ee77706256" />
+Server:
+
+<img width="1853" height="786" alt="Screenshot 2026-05-14 144714" src="https://github.com/user-attachments/assets/bb6e615a-11e9-466c-8461-2956cfb972ec" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
